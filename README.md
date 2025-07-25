@@ -14,16 +14,16 @@ The content is presented **in English** to support a global audience.
 
 ## 📂 Repository Contents
 - **Notebook**: 'A-Brief-Intro-to-Quantum-Computing-with-Qiskit-En.ipynb'
-A step-by-step practical guide to building a quantum circuit.
+- A step-by-step practical guide to building a quantum circuit.
 ---
 
 ## 🚀 How to Run the Notebook
 1. Install **Python 3.10+** and **Qiskit 2.1+**:
    
-bash
+```bash
    pip install qiskit notebook
 ## Luanch the notebook:
-bash
+```bash
    jupyter notebook
 
 ---
@@ -44,15 +44,15 @@ bash
 
 ## 📂 محتويات المشروع
 - المذكرة: 'A-Brief-Intro-to-Quantum-Computing-with-Qiskit-Ar.ipynb'
- يحتوي على شرح عملي لبناء دائرة كمومية خطوة بخطوة.
+- يحتوي على شرح عملي لبناء دائرة كمومية خطوة بخطوة.
 
 ---
 
 ## 🚀 كيفية تشغيل المذكرة
 1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:
    
-bash
+```bash
    pip install qiskit notebook
 ## افتح المذكرة عبر:
-bash
+```bash
    jupyter notebook
