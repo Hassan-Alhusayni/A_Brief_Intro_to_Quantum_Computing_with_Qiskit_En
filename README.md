@@ -1,59 +1,68 @@
-
----
-```markdown
-# A Brief Introduction to Quantum Computing with Qiskit — Build Your First Quantum Circuit!
-
-## 📖 Description
-This repository provides a concise academic introduction to the fundamentals of **Quantum Computing** using **Qiskit**.  
-It covers:
-- Superposition
-- Entanglement
-- Quantum Gates
-- Building your first quantum circuit from scratch
-
-The content is presented **in English** to support a global audience.
-
----
-
-## 📂 Repository Contents
-- **Notebook**: 'A-Brief-Intro-to-Quantum-Computing-with-Qiskit-En.ipynb'
-A step-by-step practical guide to building a quantum circuit.
----
-
-## 🚀 How to Run the Notebook
-1. Install **Python 3.10+** and **Qiskit 2.1+**:
-   ```bash
-   pip install qiskit notebook
-## Luanch the notebook:
-   ```bash
-   jupyter notebook
-
----
-
-# مقدمة مختصرة للحوسبة الكمومية باستخدام كيسكت — بناء دارتك الكمومية الأولى!
-
-## 📖 الوصف
-هذا المشروع يقدم مقدمة أكاديمية مختصرة ومبسطة في أساسيات الحوسبة الكمومية باستخدام مكتبة **Qiskit**.  
-يشرح المفاهيم الأساسية مثل:
-- التراكب (Superposition)
-- التشابك (Entanglement)
-- أبواب الكم (Quantum Gates)
-- بناء أول دارة كمومية من الصفر
-
-تم إعداد المحتوى ليكون **باللغة العربية** لتسهيل وصول المتعلمين العرب إلى المفاهيم الحديثة في الحوسبة الكمومية.
-
----
-
-## 📂 محتويات المشروع
-- المذكرة: 'A-Brief-Intro-to-Quantum-Computing-with-Qiskit-Ar.ipynb'
- يحتوي على شرح عملي لبناء دائرة كمومية خطوة بخطوة.
-
----
-
-## 🚀 كيفية تشغيل المذكرة
-1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:
-   ```bash
-   pip install qiskit notebook
-## افتح المذكرة عبر:
-   ```bash
-   jupyter notebook
+{
+ "cell_type": "markdown",
+ "id": "readme-cell",
+ "metadata": {},
+ "source": [
+  "# A Brief Introduction to Quantum Computing with Qiskit — Build Your First Quantum Circuit!\n",
+  "\n",
+  "## 📖 Description\n",
+  "This repository provides a concise academic introduction to the fundamentals of **Quantum Computing** using **Qiskit**.  \n",
+  "It covers:\n",
+  "- Superposition\n",
+  "- Entanglement\n",
+  "- Quantum Gates\n",
+  "- Building your first quantum circuit from scratch\n",
+  "\n",
+  "The content is presented **in English** to support a global audience.\n",
+  "\n",
+  "---\n",
+  "\n",
+  "## 📂 Repository Contents\n",
+  "- **Notebook**: `A-Brief-Intro-to-Quantum-Computing-with-Qiskit-En.ipynb`  \n",
+  "  A step-by-step practical guide to building a quantum circuit.\n",
+  "\n",
+  "---\n",
+  "\n",
+  "## 🚀 How to Run the Notebook\n",
+  "1. Install **Python 3.10+** and **Qiskit 2.1+**:\n",
+  "   ```bash\n",
+  "   pip install qiskit notebook\n",
+  "   ```\n",
+  "2. Launch the notebook:\n",
+  "   ```bash\n",
+  "   jupyter notebook\n",
+  "   ```\n",
+  "\n",
+  "---\n",
+  "\n",
+  "# مقدمة مختصرة للحوسبة الكمومية باستخدام كيسكت — بناء دارتك الكمومية الأولى!\n",
+  "\n",
+  "## 📖 الوصف\n",
+  "هذا المشروع يقدم مقدمة أكاديمية مختصرة ومبسطة في أساسيات الحوسبة الكمومية باستخدام مكتبة **Qiskit**.  \n",
+  "يشرح المفاهيم الأساسية مثل:\n",
+  "- التراكب (Superposition)\n",
+  "- التشابك (Entanglement)\n",
+  "- أبواب الكم (Quantum Gates)\n",
+  "- بناء أول دارة كمومية من الصفر\n",
+  "\n",
+  "تم إعداد المحتوى ليكون **باللغة العربية** لتسهيل وصول المتعلمين العرب إلى المفاهيم الحديثة في الحوسبة الكمومية.\n",
+  "\n",
+  "---\n",
+  "\n",
+  "## 📂 محتويات المشروع\n",
+  "- **المذكرة**: `A-Brief-Intro-to-Quantum-Computing-with-Qiskit-Ar.ipynb`  \n",
+  "  تحتوي على شرح عملي لبناء دائرة كمومية خطوة بخطوة.\n",
+  "\n",
+  "---\n",
+  "\n",
+  "## 🚀 كيفية تشغيل المذكرة\n",
+  "1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:\n",
+  "   ```bash\n",
+  "   pip install qiskit notebook\n",
+  "   ```\n",
+  "2. افتح المذكرة عبر:\n",
+  "   ```bash\n",
+  "   jupyter notebook\n",
+  "   ```\n"
+ ]
+}
