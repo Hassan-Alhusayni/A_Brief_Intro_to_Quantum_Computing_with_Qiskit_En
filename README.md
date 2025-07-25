@@ -25,7 +25,7 @@ A step-by-step practical guide to building a quantum circuit.
    ```bash
    pip install qiskit notebook
 ## Luanch the notebook:
-```bash
+   ```bash
    jupyter notebook
 
 ---
