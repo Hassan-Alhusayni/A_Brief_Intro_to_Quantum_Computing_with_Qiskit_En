@@ -17,6 +17,10 @@ The content is presented **in English** to support a global audience.
 
   A step-by-step practical guide to building a quantum circuit.
 ---
+## Open notebook on Google colab:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hassan-Alhusayni/A_Brief_Intro_to_Quantum_Computing_with_Qiskit/blob/main/A-Brief-Intro-to-Quantum-Computing-with-Qiskit-En.ipynb)
+
+---
 
 ## 🚀 How to Run the Notebook
 1. Install **Python 3.10+** and **Qiskit 2.1+**:
@@ -49,6 +53,10 @@ The content is presented **in English** to support a global audience.
 - المذكرة: 'A-Brief-Intro-to-Quantum-Computing-with-Qiskit-Ar.ipynb'
 
  يحتوي على شرح عملي لبناء دائرة كمومية خطوة بخطوة.
+
+---
+## تشغيل المذكرة في جوجل كولاب:
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hassan-Alhusayni/A_Brief_Intro_to_Quantum_Computing_with_Qiskit/blob/main/A-Brief-Intro-to-Quantum-Computing-with-Qiskit-Ar.ipynb)
 
 ---
 
