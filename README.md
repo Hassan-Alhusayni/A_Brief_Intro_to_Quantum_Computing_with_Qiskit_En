@@ -20,10 +20,10 @@ The content is presented **in English** to support a global audience.
 ## 🚀 How to Run the Notebook
 1. Install **Python 3.10+** and **Qiskit 2.1+**:
    
-```bash
+bash
    pip install qiskit notebook
 ## Luanch the notebook:
-```bash
+bash
    jupyter notebook
 
 ---
@@ -51,8 +51,8 @@ The content is presented **in English** to support a global audience.
 ## 🚀 كيفية تشغيل المذكرة
 1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:
    
-```bash
+bash
    pip install qiskit notebook
 ## افتح المذكرة عبر:
-```bash
+bash
    jupyter notebook
