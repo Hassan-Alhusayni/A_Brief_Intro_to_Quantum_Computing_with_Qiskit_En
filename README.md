@@ -56,6 +56,7 @@ The content is presented **in English** to support a global audience.
 1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:
    
 
+/
 
    pip install qiskit notebook
 ## افتح المذكرة عبر:
