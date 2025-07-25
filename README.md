@@ -25,6 +25,8 @@ The content is presented **in English** to support a global audience.
 1. Install **Python 3.10+** and **Qiskit 2.1+**:
    ```bash
    pip install qiskit notebook
+---
+
 # مقدمة موجزة عن الحوسبة الكمية باستخدام كيسكت — بناء دارتك الكمومية الأولى!
 
 ## 📖 الوصف
