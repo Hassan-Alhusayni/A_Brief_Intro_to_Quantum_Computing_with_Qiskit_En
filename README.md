@@ -55,10 +55,10 @@ The content is presented **in English** to support a global audience.
 ## 🚀 كيفية تشغيل المذكرة
 1. تأكد من تثبيت **Python 3.10+** و **Qiskit 2.1+** عبر الأمر:
    
-bash
+
 
    pip install qiskit notebook
 ## افتح المذكرة عبر:
-bash
+
 
    jupyter notebook
